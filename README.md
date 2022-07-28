@@ -6,6 +6,5 @@
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tambanco80/1">
   <img src="https://github-readme-medium-recent-article.vercel.app/medium/@tambanco80/1" alt="Recent Article 1"> <br>
   
-  
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tambanco80/0">
   <img src="https://github-readme-medium-recent-article.vercel.app/medium/@tambanco80/0" alt="Recent Article 0"> 
