@@ -9,8 +9,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" **alt="CSS3" width="75" height="75"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" title="Atom" **alt="Atom" width="75" height="75"/>
 </div>
-### 📖 Latest Blog Posts<br>
+
+### 📖 Latest Blog Posts
+
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tambanco80/1">
   <img src="https://github-readme-medium-recent-article.vercel.app/medium/@tambanco80/1" alt="Recent Article 1"> <br>
+  
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tambanco80/0">
   <img src="https://github-readme-medium-recent-article.vercel.app/medium/@tambanco80/0" alt="Recent Article 0"> 
