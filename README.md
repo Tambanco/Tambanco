@@ -8,6 +8,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" **alt="HTML5" width="75" height="75"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" **alt="CSS3" width="75" height="75"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" title="Markdown" **alt="Markdown" width="75" height="75"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" title="Atom" **alt="Atom" width="75" height="75"/>
+  
+  
 </div>
 
 
