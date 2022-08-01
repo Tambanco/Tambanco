@@ -1,6 +1,5 @@
 ### Hi there, I'm Alexander 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tambanco&show_icons=true)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tambanco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### Technologies
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original-wordmark.svg" title="Swift" **alt="Swift" width="100" height="100"/>
